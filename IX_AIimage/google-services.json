@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1059062100125",
+    "firebase_url": "https://testunreal-funct-default-rtdb.firebaseio.com",
+    "project_id": "testunreal-funct",
+    "storage_bucket": "testunreal-funct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059062100125:android:6452f661682b554651e474",
+        "android_client_info": {
+          "package_name": "com.xrlive.IxIAimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALedqXeIHEC6agQDel8eSFoKBE6O09nwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
