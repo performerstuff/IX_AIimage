@@ -2923,7 +2923,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/STOMPWebSockets/STOMPWebSockets.uplugin",
+			"Path": "$(EngineDir)/Plugins/Marketplace/RuntimeFilesDownloader/RuntimeFilesDownloader.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3124,6 +3124,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/VirtualProduction/Takes/Takes.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Web/HttpBlueprint/HttpBlueprint.uplugin",
 			"Type": "UFS"
 		},
 		{
