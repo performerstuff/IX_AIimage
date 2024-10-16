@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NDIIOShaders.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealEditor\Development\NDIIOShaders\NDIShaders.cpp.obj"
+"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealEditor\Development\NDIIOShaders\Default.rc2.res"
+/OUT:"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealEditor\Development\NDIIOShaders\UnrealEditor-NDIIOShaders.lib"

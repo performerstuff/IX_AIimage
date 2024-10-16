@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NDIIOEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealEditor\Development\NDIIOEditor\Module.NDIIOEditor.cpp.obj"
+"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealEditor\Development\NDIIOEditor\Default.rc2.res"
+/OUT:"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealEditor\Development\NDIIOEditor\UnrealEditor-NDIIOEditor.lib"

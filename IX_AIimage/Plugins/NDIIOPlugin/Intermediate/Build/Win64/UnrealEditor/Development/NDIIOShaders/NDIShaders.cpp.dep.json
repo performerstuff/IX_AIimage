@@ -1,0 +1,26 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\the imagination house\\xrlive_launcher\\xrlive_launcher\\plugins\\ndiioplugin\\source\\shaders\\private\\ndishaders.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\the imagination house\\xrlive_launcher\\xrlive_launcher\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\the imagination house\\xrlive_launcher\\xrlive_launcher\\plugins\\ndiioplugin\\intermediate\\build\\win64\\unrealeditor\\development\\ndiioshaders\\definitions.ndiioshaders.h",
+            "f:\\the imagination house\\xrlive_launcher\\xrlive_launcher\\plugins\\ndiioplugin\\source\\shaders\\public\\ndishaders.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget2d.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\texturerendertarget.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturerendertarget2d.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SocketClient.1_of_2.cpp.obj": [
+			"DNSClientSocketClient.gen.cpp.obj",
+			"FileFunctionsSocketClient.gen.cpp.obj",
+			"SocketClient.gen.cpp.obj",
+			"SocketClient.init.gen.cpp.obj",
+			"SocketClientAsyncNodes.gen.cpp.obj",
+			"SocketClientBPLibrary.gen.cpp.obj"
+		],
+		"Module.SocketClient.2_of_2.cpp.obj": [
+			"SocketClientTCP.gen.cpp.obj",
+			"SocketClientUDP.gen.cpp.obj",
+			"DNSClientSocketClient.cpp.obj",
+			"FileFunctionsSocketClient.cpp.obj",
+			"SocketClient.cpp.obj",
+			"SocketClientAsyncNodes.cpp.obj",
+			"SocketClientBPLibrary.cpp.obj",
+			"SocketClientCleanerThread.cpp.obj",
+			"SocketClientTCP.cpp.obj",
+			"SocketClientTCPFileHandlerThread.cpp.obj",
+			"SocketClientTCPReceiveDataThread.cpp.obj",
+			"SocketClientTCPSendDataThread.cpp.obj",
+			"SocketClientUDP.cpp.obj",
+			"SocketClientUDPReceiveDataThread.cpp.obj",
+			"SocketClientUDPSendDataThead.cpp.obj"
+		]
+	}
+}
