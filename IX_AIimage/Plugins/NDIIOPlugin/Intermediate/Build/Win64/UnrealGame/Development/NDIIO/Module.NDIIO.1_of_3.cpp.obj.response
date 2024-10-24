@@ -1,4 +1,4 @@
-"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Development\NDIIO\Module.NDIIO.1_of_3.cpp"
+"F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Development\NDIIO\Module.NDIIO.1_of_3.cpp"
 /I .
 /I Runtime
 /I Runtime\Renderer\Public
@@ -139,13 +139,13 @@
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\CinematicCamera\UHT
 /I Runtime\CinematicCamera\Public
 /I Runtime\XmlParser\Public
-/I "F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Inc\NDIIO\UHT"
-/I "F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Source"
-/I "F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Source\Core\Public"
-/I "F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Source\Core\Classes"
-/I "F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Source\Shaders\Public"
-/I "F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Source\ThirdParty"
-/I "F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Source\ThirdParty\NDI\Includes"
+/I "F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Inc\NDIIO\UHT"
+/I "F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Source"
+/I "F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Source\Core\Public"
+/I "F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Source\Core\Classes"
+/I "F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Source\Shaders\Public"
+/I "F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Source\ThirdParty"
+/I "F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Source\ThirdParty\NDI\Includes"
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -155,12 +155,12 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Intermediate\Build\Win64\XrLive_Launcher\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Development\NDIIO\Definitions.NDIIO.h"
-/Yu"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Intermediate\Build\Win64\XrLive_Launcher\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\Intermediate\Build\Win64\XrLive_Launcher\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Development\NDIIO\Module.NDIIO.1_of_3.cpp.obj"
-/sourceDependencies "F:\The Imagination House\xRLive_Launcher\XrLive_Launcher\plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Development\NDIIO\Module.NDIIO.1_of_3.cpp.dep.json"
+/FI"F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Intermediate\Build\Win64\IX_AIimage\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Development\NDIIO\Definitions.NDIIO.h"
+/Yu"F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Intermediate\Build\Win64\IX_AIimage\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Intermediate\Build\Win64\IX_AIimage\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Development\NDIIO\Module.NDIIO.1_of_3.cpp.obj"
+/sourceDependencies "F:\The Imagination House\PerformerStuff\IX_AIimage\IX_AIimage\Plugins\NDIIOPlugin\Intermediate\Build\Win64\UnrealGame\Development\NDIIO\Module.NDIIO.1_of_3.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi

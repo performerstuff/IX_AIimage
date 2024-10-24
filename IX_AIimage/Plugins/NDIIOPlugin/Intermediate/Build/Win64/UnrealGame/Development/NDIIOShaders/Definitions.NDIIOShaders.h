@@ -45,7 +45,7 @@
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
 #define UE_LIVE_CODING_ENGINE_DIR "C:\\Program Files\\Epic Games\\UE_5.1\\Engine"
-#define UE_LIVE_CODING_PROJECT "F:\\The Imagination House\\xRLive_Launcher\\XrLive_Launcher\\XrLive_Launcher.uproject"
+#define UE_LIVE_CODING_PROJECT "F:\\The Imagination House\\PerformerStuff\\IX_AIimage\\IX_AIimage\\IX_AIimage.uproject"
 #define WITH_CPP_MODULES 0
 #define WITH_CPP_COROUTINES 0
 #define WITH_PROCESS_PRIORITY_CONTROL 0
@@ -68,8 +68,8 @@
 #define UE_IS_ENGINE_MODULE 0
 #define UE_DISABLE_INLINE_GEN_CPP 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 1
-#define UE_PROJECT_NAME XrLive_Launcher
-#define UE_TARGET_NAME XrLive_Launcher
+#define UE_PROJECT_NAME IX_AIimage
+#define UE_TARGET_NAME IX_AIimage
 #define UE_MODULE_NAME "NDIIOShaders"
 #define UE_PLUGIN_NAME "NDIIOPlugin"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
